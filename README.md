@@ -1,27 +1,50 @@
-```markdown
 <div align="center">
 
 # 🌌 THE MULTIVERSE
 
 ### *The Ultimate Interactive Marvel Multiverse Experience*
 
-*A cinematic, story-driven guide to the Marvel Multiverse — designed to help every fan experience the complete journey from **Iron Man (2008)** to **Avengers: Doomsday**.*
+> **A cinematic, story-driven guide to the Marvel Multiverse — helping every fan experience the complete journey from _Iron Man (2008)_ to _Avengers: Doomsday_.**
 
----
+<p align="center">
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Yes-success?style=for-the-badge)
+![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-success?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
 
+</p>
+
 ---
 
-## ✨ Live Experience
+## 🎬 Live Demo
+
+🌐 **Website:** https://your-live-link.vercel.app
+
+> Replace the link above after deployment.
+
+---
+
+## 📸 Preview
+
+> Replace these images after deployment.
+
+| Landing Page |
+|--------------|
+| ![](assets/screenshots/landing.png) |
+
+| Watch Engine | Universe Registry |
+|---------------|-------------------|
+| ![](assets/screenshots/watch-engine.png) | ![](assets/screenshots/universe-map.png) |
+
+| Timeline | Finale |
+|-----------|---------|
+| ![](assets/screenshots/timeline.png) | ![](assets/screenshots/finale.png) |
+
+---
 
 > *"Every universe has a story. Every story leads to one destiny."*
-
-Experience the Marvel Multiverse through an immersive, cinematic web experience.
 
 </div>
 
@@ -29,95 +52,94 @@ Experience the Marvel Multiverse through an immersive, cinematic web experience.
 
 # 🎬 About
 
-**The Multiverse** is more than just another Marvel watch order.
+**The Multiverse** is an interactive cinematic web experience that transforms Marvel's massive interconnected universe into a beautiful story-driven journey.
 
-It transforms the Marvel Cinematic Universe and its connected universes into a **story-first interactive experience**, helping both newcomers and longtime fans understand how every movie, series, alternate universe, and multiversal event connects together.
+Rather than presenting hundreds of movies and shows as a simple checklist, this project guides users through the Marvel Multiverse exactly as the narrative unfolds—making every major event, alternate universe, crossover, and character introduction feel meaningful.
 
-Instead of overwhelming users with hundreds of titles, the experience unfolds like a journey through the Multiverse itself.
-
----
-
-# 🌟 Features
-
-## 🎞 Cinematic Storytelling
-
-- Story-driven progression
-- Four cinematic acts
-- Emotional transitions
-- Immersive Marvel atmosphere
-- Dynamic quotes
-- Premium visual design
+Whether you're completely new to Marvel or preparing for **Avengers: Doomsday**, this experience provides an immersive roadmap through every important story.
 
 ---
 
-## 📺 Smart Watch Order
+# ✨ Features
 
-Choose how you want to watch Marvel:
+## 🎞 Cinematic Experience
+
+- Premium single-page experience
+- Four cinematic story acts
+- Dynamic transitions
+- Scroll-driven storytelling
+- Immersive atmosphere
+- Marvel-inspired visual design
+
+---
+
+## 📺 Interactive Watch Order
+
+Choose your preferred viewing style:
 
 - 📅 Release Order
 - 🌌 Timeline Order
 
 Includes:
 
-- Movies
+- MCU Movies
 - Disney+ Series
-- Specials
+- Marvel Specials
 - One-Shots
-- Legacy Universes
-- Fox Universe
-- Sony Spider-Man Universe
+- Fox X-Men Universe
+- Raimi Spider-Man Trilogy
+- Amazing Spider-Man
 - Spider-Verse
-- Defenders Saga
-- X-Men Universe
 - Fantastic Four
 - Deadpool
+- Defenders Saga
 - TVA Storyline
+- Legacy Marvel Universes
 
 ---
 
-## 🌍 Multiverse Explorer
+## 🌍 Universe Explorer
 
-Navigate through multiple universes including:
+Explore multiple universes including:
 
 - Earth-616
+- Sacred Timeline
+- TVA
+- Fox Universe
 - Raimi Universe
 - Amazing Spider-Man Universe
-- Fox X-Men Universe
 - Spider-Verse
-- TVA
 - Alternate Timelines
 - Battleworld Connections
-- Incursions
 
 ---
 
-## 📖 Interactive Lore
+## 📖 Marvel Lore System
 
-Learn Marvel concepts as you progress.
+Learn complex Marvel concepts without unnecessary spoilers.
 
 Topics include:
 
-- Infinity Stones
-- TVA
-- Nexus Events
 - Variants
 - Incursions
+- Nexus Events
 - Anchor Beings
-- Multiverse
-- Sacred Timeline
+- TVA
 - Kang
 - Doom
-
-No spoilers beyond what you've already watched.
+- Infinity Stones
+- Sacred Timeline
+- The Multiverse
 
 ---
 
-## ✅ Progress Tracking
+## 💾 Watch Progress
 
-- Mark titles as watched
-- Progress saved automatically
+- Mark movies as watched
 - LocalStorage support
-- Resume anytime
+- Continue anytime
+- Progress tracking
+- Completion percentage
 
 ---
 
@@ -133,70 +155,127 @@ Optimized for:
 
 ---
 
-## ⚡ Premium Experience
+## ⚡ Premium UI
 
 - Smooth animations
-- Scroll-driven storytelling
-- Responsive layouts
 - Interactive timeline
+- Expandable cards
+- Cinematic quotes
 - Universe transitions
-- Expandable content
-- Cinematic effects
+- Scroll effects
+- Modern responsive layout
 
 ---
 
-# 🖼 Preview
+# 🏗 Project Structure
 
 ```
+THE MULTIVERSE
 
-🌌 Landing Experience
 │
-▼
-Choose Your Watch Mode
-│
-▼
-Acts I → II → III → IV
-│
-▼
-Timeline Navigation
-│
-▼
-Universe Explorer
-│
-▼
-Lore System
-│
-▼
-Road to Doomsday
 
-````
+├── 🌌 Landing Experience
+
+│
+
+├── 🎬 Acts Overview
+
+│
+
+├── 📺 Watch Engine
+
+│      ├── Release Order
+
+│      └── Timeline Order
+
+│
+
+├── 📖 Interactive Timeline
+
+│
+
+├── 🌍 Universe Registry
+
+│
+
+├── 🕸 Legacy Universes
+
+│
+
+├── 📚 Marvel Lore
+
+│
+
+├── ⚔ Road to Doomsday
+
+│
+
+└── 🎭 Finale
+```
 
 ---
 
 # 🛠 Tech Stack
 
-- HTML5
-- CSS3
-- Vanilla JavaScript
-- LocalStorage API
-- Intersection Observer API
-- Responsive CSS
-- Flexbox
-- CSS Grid
+| Technology | Purpose |
+|------------|----------|
+| HTML5 | Page Structure |
+| CSS3 | Styling & Animations |
+| Vanilla JavaScript | Interactivity |
+| LocalStorage API | Watch Progress |
+| Intersection Observer | Scroll Animations |
+| CSS Grid | Layout |
+| Flexbox | Responsive Design |
 
-No frameworks.
+---
 
-No libraries.
+# 🚀 Getting Started
 
-Pure frontend.
+## Clone the repository
+
+```bash
+git clone https://github.com/YOUR_USERNAME/the-multiverse.git
+```
+
+---
+
+## Navigate into the project
+
+```bash
+cd the-multiverse
+```
+
+---
+
+## Run locally
+
+Simply open
+
+```text
+index.html
+```
+
+or launch it with **VS Code Live Server**.
+
+---
+
+# 📱 Responsive Design
+
+Designed and optimized for:
+
+- ✅ Desktop
+- ✅ Laptop
+- ✅ Tablet
+- ✅ Android
+- ✅ iPhone
 
 ---
 
 # 🎯 Why This Project?
 
-Most Marvel watch orders are just long lists.
+Most Marvel watch orders are simply lists.
 
-This project aims to create an experience that feels like stepping into the Multiverse itself.
+This project focuses on **storytelling** rather than chronology.
 
 Instead of asking:
 
@@ -206,92 +285,87 @@ It answers:
 
 > **"Why does this story matter?"**
 
-Every interaction is designed to make the Marvel journey feel cinematic rather than chronological.
+The goal is to make Marvel feel like one continuous cinematic journey rather than disconnected movies and shows.
 
 ---
 
-# 🚀 Getting Started
+# 📌 Roadmap
 
-Clone the repository
+## Completed
 
-```bash
-git clone https://github.com/your-username/the-multiverse.git
-````
-
-Open the project
-
-```bash
-cd the-multiverse
-```
-
-Run locally
-
-```bash
-Open index.html
-```
-
-Or use VS Code Live Server.
+- ✅ Interactive Watch Order
+- ✅ Timeline Mode
+- ✅ Release Mode
+- ✅ Marvel Lore
+- ✅ Universe Registry
+- ✅ Progress Tracking
+- ✅ LocalStorage
+- ✅ Responsive Design
+- ✅ Cinematic UI
+- ✅ Interactive Timeline
 
 ---
 
-# 📂 Project Structure
+## Future Plans
 
-```text
-the-multiverse/
-│
-├── index.html
-├── README.md
-└── assets/
-```
-
----
-
-# 💡 Future Improvements
-
-* Search functionality
-* Character explorer
-* Timeline filters
-* Difficulty modes
-* Achievement system
-* Better progress synchronization
-* PWA support
-* Offline mode
-* Interactive universe map
-* Character relationship graph
+- 🔍 Search
+- 🧑 Character Explorer
+- 📊 Timeline Filters
+- 🏆 Achievement System
+- 🌐 Progressive Web App (PWA)
+- 📥 Offline Support
+- 👥 Community Contributions
+- ⭐ Favorites System
 
 ---
 
 # 🤝 Contributing
 
-Contributions are welcome.
+Contributions are always welcome!
 
-If you have ideas, improvements, or bug fixes, feel free to open an Issue or submit a Pull Request.
+If you have ideas, improvements, or bug fixes:
+
+1. Fork the repository
+2. Create your feature branch
+3. Commit your changes
+4. Open a Pull Request
 
 ---
 
 # ⚠ Disclaimer
 
-This is a fan-made educational project created for the Marvel community.
+This project is a fan-made educational experience created for the Marvel community.
 
-Marvel, Avengers, Spider-Man, X-Men, Fantastic Four, and all related characters are trademarks of their respective owners.
+Marvel, Avengers, Spider-Man, X-Men, Fantastic Four, Deadpool, and all related names, characters, images, and trademarks belong to their respective copyright holders.
 
 No copyright infringement is intended.
 
 ---
 
-<div align="center">
+# 👨‍💻 Author
 
-## ⭐ If you enjoyed this project
+## Yuvraj Deep Gupta
 
-Give this repository a ⭐ on GitHub!
-
-It helps others discover the project.
+Frontend Developer • Problem Solver • Marvel Fan
 
 ---
 
-**Built with ❤️ by Yuvraj Deep Gupta**
+<div align="center">
 
-*"The Multiverse isn't a place... it's a story waiting to be explored."*
+## ⭐ If you enjoyed this project...
+
+Give this repository a **Star ⭐**
+
+It helps others discover the project and motivates future improvements.
+
+---
+
+### "The Multiverse isn't just a collection of universes.
+
+### It's one connected story."
+
+🌌
+
+Made with ❤️ by **Yuvraj Deep Gupta**
 
 </div>
-```
