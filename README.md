@@ -6,44 +6,6 @@
 
 > **A cinematic, story-driven guide to the Marvel Multiverse — helping every fan experience the complete journey from _Iron Man (2008)_ to _Avengers: Doomsday_.**
 
-<p align="center">
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Responsive](https://img.shields.io/badge/Responsive-Mobile%20First-success?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
-
-</p>
-
----
-
-## 🎬 Live Demo
-
-🌐 **Website:** https://your-live-link.vercel.app
-
-> Replace the link above after deployment.
-
----
-
-## 📸 Preview
-
-> Replace these images after deployment.
-
-| Landing Page |
-|--------------|
-| ![](assets/screenshots/landing.png) |
-
-| Watch Engine | Universe Registry |
-|---------------|-------------------|
-| ![](assets/screenshots/watch-engine.png) | ![](assets/screenshots/universe-map.png) |
-
-| Timeline | Finale |
-|-----------|---------|
-| ![](assets/screenshots/timeline.png) | ![](assets/screenshots/finale.png) |
-
----
-
 > *"Every universe has a story. Every story leads to one destiny."*
 
 </div>
